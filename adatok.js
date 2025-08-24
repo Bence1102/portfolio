@@ -59,7 +59,7 @@ export const AdatokLista = [
         ceg: "Office Depot",
         beosztas: "árufeltöltő",
         idoszak: "2024.06 – 2024.08",
-        feladatok: ["árukezelés", "polcrendezés", "ügyfélkiszolgálás"]
+        feladatok: ["árukezelés","polcrendezés","kiszolgálás"]
       }
     ]
   },
