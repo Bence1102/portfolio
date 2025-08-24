@@ -1,7 +1,7 @@
 export const AdatokLista = [
   {
     kategoria: "szemelyes",
-    kep: "kepek/sajatkep",
+    kep: "./kepek/sajatkep.jpg",
     tetelek: [
       { cimke: "nev", ertek: "Szente Bence" },
       { cimke: "email", ertek: "szente.bence04@gmail.com" },
@@ -11,6 +11,7 @@ export const AdatokLista = [
   },
   {
     kategoria: "tanulmanyok",
+    kep: "./kepek/sajatkep.jpg",
     tetelek: [
       {
         intezmeny: "Török Flóris Általános Iskola",
@@ -40,6 +41,7 @@ export const AdatokLista = [
   },
   {
     kategoria: "munkatapasztalat",
+    kep: "./kepek/sajatkep.jpg",
     tetelek: [
       {
         ceg: "McDonald’s",
@@ -63,6 +65,7 @@ export const AdatokLista = [
   },
   {
     kategoria: "sporteredmények",
+    kep: "./kepek/sajatkep.jpg",
     tetelek: [
       { sport: "Futsal NB I U20", eredmeny: "2× bajnoki cím" },
       { sport: "Futsal NB I U17", eredmeny: "2× bajnoki cím" }
@@ -70,6 +73,7 @@ export const AdatokLista = [
   },
   {
     kategoria: "készségek",
+    kep: "./kepek/sajatkep.jpg",
     tetelek: [
       { nev: "HTML", szint: 3 },
       { nev: "Python", szint: 2 },
@@ -83,6 +87,7 @@ export const AdatokLista = [
   },
   {
     kategoria: "érdekes_tények",
+    kep: "./kepek/sajatkep.jpg",
     tetelek: [
       "Futsal-rajongó és többszörös utánpótlás bajnok.",
       "Szereti a fejlesztést és a webtechnológiákat.",
