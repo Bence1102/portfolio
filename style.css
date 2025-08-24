@@ -58,6 +58,12 @@ article{
     font-family: 'Times New Roman', Times, serif;
 }
 
+.szoveg,li{
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
+}
+
 
 @media (max-width: 768px){
     .szoveg {
